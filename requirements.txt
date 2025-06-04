@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+pydub
+streamlit-webrtc
+twilio~=9.4.3
+matplotlib
